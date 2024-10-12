@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 
-**As190704/As190704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**As190704/As190704** 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on weather related ai
 - 🌱 I’m currently learning advanced ds tools
