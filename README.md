@@ -17,3 +17,20 @@
 
 ## git stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=As190704&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
+
+
+
+
+<!-- Github Stats, coding streak, Most used languages analytics-->
+<!-- <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=geekyharsh05&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="450"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=geekyharsh05&theme=jolly" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=geekyharsh05&show_icons=true&locale=en&layout=compact&theme=jolly" alt="Most Used Languages analytics" width="450"/>
+</p> 
+
+<p align="left"> 
+  <h3>Visitor Count</h3>
+  <img src="https://profile-counter.glitch.me/geekyharsh05/count.svg" />
+</p>
+-->
