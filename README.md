@@ -19,7 +19,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=As190704&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkr018&layout=compact&theme=radical&hide_border=true" width="60%" />
+</p>
 
 
 <!-- Github Stats, coding streak, Most used languages analytics-->
