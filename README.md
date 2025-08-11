@@ -1,3 +1,12 @@
+[![GitHub Header](./assets/img/header%20github.png)](https://github.com/As190704)
+
+<div align="center">
+
+[![GitHub Followers](https://img.shields.io/github/followers/hazgan72?label=Followers&style=social)](https://github.com/As190704)
+
+</div>
+
+---
 ## Hi there 👋
 
 
